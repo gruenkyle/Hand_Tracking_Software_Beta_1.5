@@ -1,5 +1,7 @@
 # Hand_Tracking_Software_Beta_1.5
 
+HandTracking Translator Software
+
 -> Version 1.5 Beta which is the skeleton of each function i'd like to implement
 
 All Scripts are still being developed outside the base skeleton of each idea. 
