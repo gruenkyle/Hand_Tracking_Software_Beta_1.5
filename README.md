@@ -1,4 +1,4 @@
-# Hand_Tracking_Software_Beta_1.5
+Hand_Tracking_Software_Beta_1.5
 
 HandTracking Translator Software
 
